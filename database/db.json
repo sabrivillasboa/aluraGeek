@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Auriculares JBL",
+      "price": 62000,
+      "image": "../image/auriculares.webp"
+    },
+    {
+      "id": "2",
+      "name": "Notebook HP",
+      "price": 1300000,
+      "image": "../image/notebook.webp"
+    },
+    {
+      "id": "3",
+      "name": "Monitor Samsung",
+      "price": 168000,
+      "image": "../image/monitor.webp"
+    },
+    {
+      "id": "4",
+      "name": "Teclado mecanico",
+      "price": 39000,
+      "image": "../image/teclado.webp"
+    },
+    {
+      "id": "5",
+      "name": "Mouse Logitech",
+      "price": 30000,
+      "image": "../image/mouse-O.webp"
+    },
+    {
+      "id": "6",
+      "name": "Silla Gamer",
+      "price": 178000,
+      "image": "../image/silla.webp"
+    },
+    {
+      "id": "7",
+      "name": "Notebook Lenovo",
+      "price": 1100000,
+      "image": "../image/note lenovo.webp"
+    },
+    {
+      "id": "8",
+      "name": "Microprocesador",
+      "price": 139000,
+      "image": "../image/microprocesador.webp"
+    },
+    {
+      "id": "6fb6",
+      "name": "Cargador",
+      "price": "56200",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_907635-MLU70083383256_062023-O.webp"
+    },
+    {
+      "id": "c8e6",
+      "name": "Vincha auricular",
+      "price": "70000",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_808568-MLU72748503475_112023-O.webp"
+    },
+    {
+      "id": "e4eb",
+      "name": "Escritorio PC",
+      "price": "86000",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_827489-MLA79928722178_102024-O.webp"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>AluraGeek</title>
+</head>
+<body>
+    <header>
+        <img class="header__img" src="./image/Property 1=White.png" alt="">
+    </header>
+    <main>
+        <section class="section__products">
+            <h1>MIS PRODUCTOS</h1>
+            <div data-product class="product-container">
+                <!-- ACA VAN LOS PRODUCTOS RENDERIZADOS -->
+            </div>
+        </section>
+
+        <section class="section__form">
+            <form action="" class="form" data-form>
+                <h2 class="form__title">AGREGAR PRODUCTO</h2>
+                <input class="form__title-input" type="text" name="name" placeholder="Nombre">
+                <input class="form__title-input" type="number" name="price" placeholder="Precio">
+                <input class="form__title-input" type="url" name="image" placeholder="Imagen">
+                <div class="form__btn-container">
+                    <button class="form__btn-active" type="submit">Enviar</button>
+                    <button class="form__btn" type="submit">Limpiar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <img class="footer__img" src="./image/Property 1=White.png" alt="">
+        <p class="footer__text">Desarrollado por Sabrina Villasboa para ONE Alura Latam</p>
+    </footer>
+    <script type="module" src="./js/controllers/main.js"></script>
+</body>
+</html>
